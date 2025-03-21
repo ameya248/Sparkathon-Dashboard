@@ -1,15 +1,7 @@
-
+pip install --upgrade pip
 chart_studio==1.1.0
-numpy==1.25.2s=
+numpy==1.25.2
 pandas=2.1.0
 plotly==5.17.0
 streamlit==1.28.0
-streamlit_option_menu==0.3.4
-pip install --upgrade pip
-pip install --upgrade chart_studio
-pip install --upgrade numpy
-pip install --upgrade pandas
-pip install --upgrade plotly
-pip install --upgrade streamlit
-pip install --upgrade streamlit_option_menu
-
+streamlit_option_menu==0.4.0
